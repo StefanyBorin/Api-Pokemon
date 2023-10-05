@@ -7,7 +7,7 @@ Essa API de formato Rest é uma demonstração de como usar rotas express e capt
 Como clonar o projeto:
 
 ```bash
-  git clone <URL do Repositório>
+  git clone <[URL do Repositório](https://github.com/StefanyBorin/Api-Pokemon)>
 
 ```
 
