@@ -53,7 +53,7 @@ No terminal do projeto, de inicio ao servidor para ter acesso ao localhost porta
 
 Terminando o teste no Insomnia é necessario encerrar o servidor usando `Crl + C` e selecionando opção `s` e enter.
 
-![Start servidor](gif-start-servidor.gif)
+<img src="img/gif-start-servidor.gif">
 
 ## Criando coleção no Insomnia
 
@@ -71,7 +71,7 @@ No insomnia crie uma nova coleção e rotas GET para acesso ao servidor local. U
   http://localhost:3000/pokemon/1
 ```
 
-![insomnia](gif-insomnia.gif)
+<img src="img/gif-insomnia.gif">
 
 ## API Rest Verbos
 
